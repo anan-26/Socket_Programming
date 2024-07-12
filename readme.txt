@@ -1,10 +1,6 @@
-FULL NAME : ANANYA CHAKRAVARTHI
-STUDENT ID: 7857367452
-USC NETID: ananyach
 
 => What I have completed:
    => I have done the code for the four source code files: client.cpp, serverA.cpp, serverB.cpp and serverM.cpp
-   => I have not done the extra credits part
    => I have tested the above codes on the input files a.txt and b.txt
 
 => What my code files are and what each one of them does.
@@ -39,10 +35,3 @@ USC NETID: ananyach
         => All messages exchanged are hence character arrays (strings)
         => The username and time interval for a particular person is encapsulated in a linked list node
         => Intermediary data formats used are integer arrays and linked lists
-
-=> Any idiosyncrasy of your project
-        => The client input is assumed to be a list of names separated by single spaces.
-        => My program is not checking for the case with arbitrary number of white spaces before the first word. 
-
-=> Reused Code: Did you use code from anywhere for your project? 
-        => Yes, I used code from Beej's guides. 
